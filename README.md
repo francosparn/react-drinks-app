@@ -1,3 +1,11 @@
+# Preview
+
+Beverage search application developed with React. The application consumes an API called TheCocktailDB that provides information about the drinks with their respective ingredients and amounts. Other technologies used: HTML, CSS and Bootstrap 4.
+
+![](https://i.imgur.com/o2kfXjO.png)
+
+![](https://i.imgur.com/DcqkaX6.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
